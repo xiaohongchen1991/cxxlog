@@ -1,0 +1,4 @@
+// the configured options and settings for numcalc
+#define CXXLOG_VERSION_MAJOR @CXXLOG_VERSION_MAJOR@
+#define CXXLOG_VERSION_MINOR @CXXLOG_VERSION_MINOR@
+#define CXXLOG_VERSION_PATCH @CXXLOG_VERSION_PATCH@
