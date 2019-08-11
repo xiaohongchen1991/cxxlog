@@ -6,3 +6,5 @@ googletest-build/
 googletest-download/
 googletest-src/
 cxxlog_test
+tmp.log
+*~
