@@ -71,17 +71,11 @@ The usage of FileLog mode is similar to that of TrivialLog mode, except that the
 
 The libarary provides three different attributes to add into Log class.
 
-1. Counter
-   LineID, used to tell how many information has been logged.
-   Format: No.#
+1. Counter, used to tell how many information has been logged. Format: No.#
    
-2. ThreadID
-   ThreadID, used to tell which thread logs this information.
-   Format: T.#
+2. ThreadID, used to tell which thread logs this information. Format: T.#
    
-3. TimeStamp
-   TimeStamp, used to tell when the information is logged
-   Format(ex): Sun Aug 11 11:48:08 2019
+3. TimeStamp, used to tell when the information is logged. Format(ex): Sun Aug 11 11:48:08 2019
    
 ## Customization
 
